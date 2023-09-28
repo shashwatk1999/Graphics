@@ -1,3 +1,10 @@
+/*****************************************************************//**
+ * \file   tutorial1.cpp
+ * \brief  Main file to render a basic triangle.
+ * 
+ * \author Shashwat Kashyap<shashwatk1999@gmail.com>
+ * \date   September 2023
+ *********************************************************************/
 #include "../NCLGL/window.h"
 #include "Renderer.h"
 
